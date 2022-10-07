@@ -14,7 +14,7 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
 app.use(express.json());
 app.use(cors({
-    origin:"https://notesifyweb.netlify.app/",
+    origin:"https://notesifyweb.netlify.app",
     methods:["GET","POST","DELETE","PATCH"]
 }));
 
