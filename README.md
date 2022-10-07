@@ -1,6 +1,4 @@
-# productify_server
-product management API using node js and mongoDB
-https://productifyapi.netlify.app/
-# installation
-npm install
+# notesifyweb_server
+This is a notes app backend built using node and mongoDB as part of an internship project
+https://notesifyweb.netlify.app
 
